@@ -10,7 +10,7 @@ STATE,DE,,,$0.60,$0.60,viapath,11-28-2023
 STATE,FL,,,$2.10,$2.10,viapath,11-28-2023
 STATE,GA,,,$2.10,$2.10,securus,11-28-2023
 STATE,HI,,,$1.05,$1.05,viapath,11-28-2023
-STATE,IA,,,$1.65,$1.65,viapath,11-28-2023
+STATE,IA,,,$1.65,$1.65,ics,11-28-2023
 STATE,ID,,,$1.20,$1.20,ics,11-28-2023
 STATE,IL,,,$0.14,$0.14,securus,11-28-2023
 STATE,IN,,,$2.10,$2.10,viapath,11-28-2023
