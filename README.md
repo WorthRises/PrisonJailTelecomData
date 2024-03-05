@@ -21,4 +21,7 @@ There is also a known subset of counties that send inmates to regional or state 
 
 Both in-state and out-of-state rates are collected and reported in the final datasets.
 
-**Note**: Because this data is scraped from private entities, it is updated and ammended on a schedule we do not control. Our data represents telecom rates as those entities report them publicly.
+## Notes
+Because this data is scraped from private entities, it is updated and ammended on a schedule we do not control. Our data represents telecom rates as those entities report them publicly.
+
+**Historical data for Viapath** has some small inaccuracies cause by incorrect rounding on 1-minute prices listed on the Viapath website. Data listed after February 23, 2024 is corrected to account for this issue. Data listed before February 23, 2024 for jurisdictions served by Viapath may have small inaccuracies.
