@@ -24,4 +24,4 @@ Both in-state and out-of-state rates are collected and reported in the final dat
 ## Notes
 Because this data is scraped from private entities, it is updated and ammended on a schedule we do not control. Our data represents telecom rates as those entities report them publicly.
 
-**Historical data for Viapath** has some small inaccuracies cause by incorrect rounding on 1-minute prices listed on the Viapath website. Data listed after February 23, 2024 is corrected to account for this issue. Data listed before February 23, 2024 for jurisdictions served by Viapath may have small inaccuracies.
+ViaPath data after February 23, 2024 is corrected to account for a rounding error in the 1-minute prices posted on the ViaPath website. Data listed before February 23, 2024 for jurisdictions served by ViaPath could not be corrected, and might include minor inaccuracies resulting from extrapolation of 15-minute call price from rounded 1-minute price. 
