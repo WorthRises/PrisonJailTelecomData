@@ -33,7 +33,7 @@ STATE,NJ,,,$0.60,$0.60,viapath,07-11-2023
 STATE,NM,,,$1.20,$1.20,securus,07-11-2023
 STATE,NV,,,$1.65,$1.65,securus,07-11-2023
 STATE,NY,,,$0.60,$0.60,securus,07-11-2023
-STATE,OH,,,$3.15,$3.15,ics,07-11-2023
+STATE,OH,,,$0.30,$0.30,viapath,07-11-2023
 STATE,OK,,,$2.10,$2.10,securus,07-11-2023
 STATE,OR,,,$1.35,$1.35,ics,07-11-2023
 STATE,PA,,,$0.89,$0.89,securus,07-11-2023
