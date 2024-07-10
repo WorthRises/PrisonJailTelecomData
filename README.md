@@ -25,3 +25,5 @@ Both in-state and out-of-state rates are collected and reported in the final dat
 Because this data is scraped from private entities, it is updated and ammended on a schedule we do not control. Our data represents telecom rates as those entities report them publicly.
 
 ViaPath data after February 23, 2024 is corrected to account for a rounding error in the 1-minute prices posted on the ViaPath website. Data listed before February 23, 2024 for jurisdictions served by ViaPath could not be corrected, and might include minor inaccuracies resulting from extrapolation of 15-minute call price from rounded 1-minute price. 
+
+This database reports one in-state and one out-of-state rate at each level (state, county, local). Some county and local-level facilities, however, have different rates for different in-state numbers (Local, InterLATA, IntraLATA regions). These rates are not reflected in our database. 
