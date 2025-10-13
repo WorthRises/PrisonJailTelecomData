@@ -5,7 +5,7 @@ To see a a heatmap representation of the current datsets, visit the [prison tele
 
 ## The Data
 
-You can download the CSV's with the latest rate data [here](https://github.com/blueshift-tech/worth-rises/tree/main/07-20-22).
+You can download the CSV's with the latest rate data [here](https://github.com/WorthRises/PrisonJailTelecomData/tree/main/2025/09-26-25).
 
 To save a file: click on any file with a `.csv` extension, and in the upper right-hand corner, select "Copy raw contents". You can then paste into a Google Sheet, text file, or Excel. Or, from the upper right-hand menu, select "Raw", which takes you to a url ending in `.csv`. Use "Command + S" while viewing this page to save this file as a `.csv` extension.
 
